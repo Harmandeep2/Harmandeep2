@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Harmandeep2
-- 👀 I’m interested in Computer Science and Engineering. I would love to work with big Tech Companies and work on big projects to make a change in society. 
-- 🌱 I’m currently learning Computer Science in Grade 12 and doing an advanced form of the Java Langauge. I have also worked with Visual Basic in Grade 10.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @Harmandeep2 (Harmandeep Arneja)
+- 👀 I’m interested in Software Development and Engineering. 
+- 🌱 I’m currently in my 3rd Year of Software Engineering at the Lassonde School of Engineering at York University. 
+- 💞️ Feel free to check out the projects I have worked on! Featured Project: ChoresGalore
+- 📫 Contact me on LinkedIn: www.linkedin.com/in/harmandeep-arneja-
 
 <!---
 Harmandeep2/Harmandeep2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
